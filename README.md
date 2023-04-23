@@ -1,4 +1,4 @@
-# [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&fontAlignY=25&section=header&fontAlign=25&animation=twinkling&text=Welcome%20to%20my%20GitHub%20profile%20!&fontSize=24)](#)
+# [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&fontAlignY=25&section=header&fontAlign=25&animation=twinkling&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=24)](#)
 
 ![Profile View Count](https://komarev.com/ghpvc/?username=crazyads69)
 
