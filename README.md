@@ -5,29 +5,34 @@
 ## About me 👀
 
 ```dart
-class Developer {
-  String name = "";
-  String dayofBirth = "";
-  String emailContact = "";
-  String facebook = "";
-  String instagram = "";
-  String linkedin = "";
-  String myBlog = "";
-  String fromOrg = "";
-  String university = "";
-  Developer(
-      {required this.name,
-      required this.dayofBirth,
-      required this.emailContact,
-      required this.facebook,
-      required this.instagram,
-      required this.linkedin,
-      required this.myBlog,
-      required this.fromOrg,
-      required this.university});
+class Developer 
+{
+    String name = "";
+    String dayofBirth = "";
+    String emailContact = "";
+    String facebook = "";
+    String instagram = "";
+    String linkedin = "";
+    String myBlog = "";
+    String fromOrg = "";
+    String university = "";
+    
+    Developer
+    ({
+        required this.name,
+        required this.dayofBirth,
+        required this.emailContact,
+        required this.facebook,
+        required this.instagram,
+        required this.linkedin,
+        required this.myBlog,
+        required this.fromOrg,
+        required this.university
+    });
 }
 
-var crazyads69 = new Developer(
+var crazyads69 = new Developer
+(
   name: "Le Minh Tri",
   dayofBirth: "06/09/2004",
   emailContact: "crazyads69z@gmail.com",
