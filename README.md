@@ -39,8 +39,8 @@ var crazyads69 = new Developer
   facebook: "leminhtri.dev",
   instagram: "its.leminhtri",
   linkedin: "trilm",
-  myBlog: "crazyads69.github.io",
-  fromOrg: "Kode",
+  myBlog: "crazyads69.wordpress.com",
+  fromOrg: "Kode + TSR",
   university: "University of Information Technology - UIT",
 );
 ```
