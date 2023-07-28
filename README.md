@@ -57,4 +57,4 @@ var crazyads69 = new Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyads69&&langs_count=10&theme=radical&hide=html&layout=compact)](https://www.github.com/crazyads69)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&fontAlignY=75&section=footer&fontAlign=25&animation=twinkling&text=That%27s%20all,%20have%20a%20good%20day%20!&fontSize=24)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&fontAlignY=75&section=footer&fontAlign=25&animation=twinkling&text=That%27s%20all,%20have%20a%20good%20day!&fontSize=24)
