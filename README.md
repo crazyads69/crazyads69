@@ -4,45 +4,18 @@
 
 ## About me 👀
 
-```dart
-class Developer 
-{
-    String name = "";
-    String dayofBirth = "";
-    String emailContact = "";
-    String facebook = "";
-    String instagram = "";
-    String linkedin = "";
-    String myBlog = "";
-    String fromOrg = "";
-    String university = "";
-    
-    Developer
-    ({
-        required this.name,
-        required this.dayofBirth,
-        required this.emailContact,
-        required this.facebook,
-        required this.instagram,
-        required this.linkedin,
-        required this.myBlog,
-        required this.fromOrg,
-        required this.university
-    });
-}
-
-var crazyads69 = new Developer
-(
-  name: "Le Minh Tri",
-  dayofBirth: "06/09/2004",
-  emailContact: "crazyads69z@gmail.com",
-  facebook: "leminhtri.dev",
-  instagram: "its.leminhtri",
-  linkedin: "trilm",
-  myBlog: "crazyads69.wordpress.com",
-  fromOrg: "Kode + TSR",
-  university: "University of Information Technology - UIT",
-);
+```javascript
+let crazyads69 = {
+      name: "Le Minh Tri",
+      dayofBirth: "06/09/2004",
+      emailContact: "crazyads69z@gmail.com",
+      facebook: "leminhtri.dev",
+      instagram: "its.leminhtri",
+      linkedin: "trilm",
+      myBlog: "crazyads69.wordpress.com",
+      fromOrg: "Kode + Tensoract",
+      university: "University of Information Technology - UIT",
+};
 ```
 
 ## Github Streak
