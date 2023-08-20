@@ -14,7 +14,7 @@ let crazyads69 = {
       linkedin: "trilm",
       myBlog: "crazyads69.wordpress.com",
       fromOrg: "Kode + Tensoract",
-      university: "University of Information Technology - UIT",
+      university: "University of Information Technology - UIT"
 };
 ```
 
