@@ -7,13 +7,10 @@
 ```javascript
 let crazyads69 = {
       name: "Le Minh Tri",
-      dayofBirth: "06/09/2004",
-      emailContact: "crazyads69z@gmail.com",
       facebook: "leminhtri.dev",
       instagram: "its.leminhtri",
       linkedin: "trilm",
-      myBlog: "crazyads69.wordpress.com",
-      fromOrg: "Kode + Tensoract",
+      fromOrg: "Kode + TENSORACT",
       university: "University of Information Technology - UIT"
 };
 ```
