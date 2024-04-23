@@ -7,8 +7,8 @@
 ```javascript
 let crazyads69 = {
       name: "Le Minh Tri",
+      emailContact: "trilm@tensoract.io",
       facebook: "leminhtri.dev",
-      instagram: "its.leminhtri",
       linkedin: "trilm",
       fromOrg: "Kode + TENSORACT",
       university: "University of Information Technology - UIT"
