@@ -17,7 +17,7 @@ let crazyads69 = {
 
 ## Github Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=crazyads69&theme=radical)](https://www.github.com/crazyads69)
+[![GitHub Streak](https://streak-stats.demolab.com?user=crazyads69&theme=radical)](https://git.io/streak-stats)
 
 ## Github Stats
 
