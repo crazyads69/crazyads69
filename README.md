@@ -7,10 +7,8 @@
 ```javascript
 let crazyads69 = {
       name: "Le Minh Tri",
-      emailContact: "trilm@tensoract.io",
       facebook: "leminhtri.dev",
       linkedin: "trilm",
-      fromOrg: "Kode + TENSORACT",
       university: "University of Information Technology - UIT"
 };
 ```
